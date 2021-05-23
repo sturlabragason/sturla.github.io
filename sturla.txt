@@ -1,5 +1,4 @@
-<div
-    style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;">
+<div style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;">
     <pre>
     - name: Sturla Bragason
         key_skills: [ Active Learner, Critical Thinker, DevOps, IaC ]
