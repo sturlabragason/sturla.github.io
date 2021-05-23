@@ -1,5 +1,5 @@
 <pre style="color:lime;">
-    - name: Sturla Bragason
+- name: Sturla Bragason
     key_skills: [ Active Learner, Critical Thinker, DevOps, IaC ]
 
 - experience:
