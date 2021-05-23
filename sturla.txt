@@ -1,6 +1,6 @@
 <span id="a">Sturla@terminal</span>:<span id="b">~</span><span id="c">$</span> cd Sturla/<!-- kjsdfhkjdhsfkjdshfkj -->About_Sturla
 <span id="a">Sturla@terminal</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Sturla.txt<br/><br/>
-My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
+<!-- sjkfhskjf -->
 
 Hey There! I am Sturla Bragason.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 You can learn more about me on my website <a href="https://sturlabragason.com"> sturlabragason.com</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
