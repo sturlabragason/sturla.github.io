@@ -1,26 +1,30 @@
-<!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">name</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Sturla Bragason</span>
-        <span style="color: #ae81ff">key_skills</span><span style="color: #f8f8f2">:</span> <span style="color: #f8f8f2">[</span> <span style="color: #f8f8f2">Active Learner,</span> <span style="color: #f8f8f2">Critical Thinker,</span> <span style="color: #f8f8f2">DevOps,</span> <span style="color: #f8f8f2">IaC</span> <span style="color: #f8f8f2">]</span>
+<div
+    style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;">
+    <pre>
+    - name: Sturla Bragason
+        key_skills: [ Active Learner, Critical Thinker, DevOps, IaC ]
 
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">experience</span><span style="color: #f8f8f2">:</span>
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">company</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Cloudeon 2019 - Present</span>
-    <span style="color: #ae81ff">title</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Cloud Specialist</span>
-        <span style="color: #ae81ff">working_with</span><span style="color: #f8f8f2">:</span> <span style="color: #f8f8f2">[</span> <span style="color: #f8f8f2">Azure Devops,</span> <span style="color: #f8f8f2">Azure,</span> <span style="color: #f8f8f2">Terraform,</span> <span style="color: #f8f8f2">pwsh,</span> <span style="color: #f8f8f2">az cli,</span> <span style="color: #f8f8f2">git</span> <span style="color: #f8f8f2">]</span>
-        <span style="color: #ae81ff">description</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">A senior developer of the company&#39;s flagship cloud center of excellence project.</span>
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">company</span><span style="color: #f8f8f2">:</span>  <span style="color: #ae81ff">Omada 2017 - 2019</span>
-    <span style="color: #ae81ff">title</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Senior Consultant</span>
-        <span style="color: #ae81ff">worked_on</span><span style="color: #f8f8f2">:</span> <span style="color: #f8f8f2">[</span> <span style="color: #f8f8f2">PowerShell,</span> <span style="color: #f8f8f2">Software Deployment,</span> <span style="color: #f8f8f2">Infrastructure Training,</span> <span style="color: #f8f8f2">Windows</span> <span style="color: #f8f8f2">]</span> 
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">company</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Wise 2017</span>
-    <span style="color: #ae81ff">title</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Technical Consultant</span>
-        <span style="color: #ae81ff">worked_on</span><span style="color: #f8f8f2">:</span> <span style="color: #f8f8f2">[</span> <span style="color: #f8f8f2">PowerShell,</span> <span style="color: #f8f8f2">SQL,</span> <span style="color: #f8f8f2">Cloud Automation,</span> <span style="color: #f8f8f2">Support</span> <span style="color: #f8f8f2">]</span>
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">company</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Staff.is 2016</span>
-    <span style="color: #ae81ff">title</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Fullstack Developer</span>
-        <span style="color: #ae81ff">worked_on</span><span style="color: #f8f8f2">:</span> <span style="color: #f8f8f2">[</span> <span style="color: #f8f8f2">HTML,</span> <span style="color: #f8f8f2">CSS,</span> <span style="color: #f8f8f2">PHP,</span> <span style="color: #f8f8f2">SQL</span> <span style="color: #f8f8f2">]</span>
+    - experience:
+    - company: Cloudeon 2019 - Present
+        title: Cloud Specialist
+            working_with: [ Azure Devops, Azure, Terraform, pwsh, az cli, git ]
+            description: A senior developer of the company's flagship cloud center of excellence project.
+    - company:  Omada 2017 - 2019
+        title: Senior Consultant
+            worked_on: [ PowerShell, Software Deployment, Infrastructure Training, Windows ] 
+    - company: Wise 2017
+        title: Technical Consultant
+            worked_on: [ PowerShell, SQL, Cloud Automation, Support ]
+    - company: Staff.is 2016
+        title: Fullstack Developer
+            worked_on: [ HTML, CSS, PHP, SQL ]
 
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">certifications</span><span style="color: #f8f8f2">:</span>
-<span style="color: #ae81ff">microsoft_certified</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Azure Administrator Associate</span>
-<span style="color: #ae81ff">microsoft_certified</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">DevOps Engineer Expert</span>
+    - certifications:
+    microsoft_certified: Azure Administrator Associate
+    microsoft_certified: DevOps Engineer Expert
 
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">education</span><span style="color: #f8f8f2">:</span>
-<span style="color: #f8f8f2">-</span> <span style="color: #ae81ff">school</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Keilir Institution of Technology 2013</span>
-    <span style="color: #ae81ff">degree</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Mechatronics Bsc. (Unfinished)</span>
-</pre></div>
+    - education:
+    - school: Keilir Institution of Technology 2013
+        degree: Mechatronics Bsc. (Unfinished)
+    </pre>
+</div>
