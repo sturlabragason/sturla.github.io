@@ -16,7 +16,7 @@
         worked_on: [ PowerShell, Software Deployment, Infrastructure Training, Windows ] 
   - company: Wise, 2017
       title: Technical Consultant
-        worked_on: [ PowerShell, SQL, Azure, Support ]
+        worked_on: [ PowerShell, SQL, Azure, Dynamics NAV ]
   - company: Staff.is, 2016
       title: Fullstack Developer
         worked_on: [ HTML, CSS, PHP, SQL ]
