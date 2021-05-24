@@ -1,6 +1,7 @@
+<pre style="color:lime;">
 - name: Sturla Bragason
     soft_skills: [ Active Learner, Critical Thinker, Asynchronous Communication]
-    hard_skills: [ DevOps, IaC, Fail-fast, RERO ]
+    hard_skills: [ DevOps, IaC, RERO ]
     personal_causes: [ Radical Open Source, Net Neutrality, Degrowth ]
 
 - experience:
@@ -29,3 +30,4 @@
   - school: Keilir Institution of Technology, 2013
       degree: Mechatronics Bsc. (Unfinished)
       
+</pre>
