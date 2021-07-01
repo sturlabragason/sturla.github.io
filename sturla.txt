@@ -19,7 +19,7 @@
       title: Technical Consultant
         worked_on: [ PowerShell, SQL, Azure, Dynamics NAV ]
   - company: Staff.is, 2016
-      title: Fullstack Developer
+      title: Full Stack Developer
         worked_on: [ HTML, CSS, PHP, SQL ]
 
 - certifications:
