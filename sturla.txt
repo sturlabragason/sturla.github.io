@@ -1,13 +1,13 @@
 <pre style="color:lime;">
 - name: Sturla Bragason
-    soft_skills: [ Active Learner, Critical Thinker, Asynchronous Communication]
+    soft_skills: [ Active Learner, Critical Thinker, Asynchronous Communication ]
     hard_skills: [ DevOps, IaC, RERO ]
     personal_causes: [ Radical Open Source, Net Neutrality, Degrowth ]
 
 - experience:
   - company: Cloudeon, 2019 - Present
       title: Cloud Specialist
-        working_with: [ Azure Devops, Azure, Terraform, pwsh, az cli, git, IAM]
+        working_with: [ Azure Devops, Azure, Terraform, pwsh, az cli, git, IAM ]
         description: |
                   A senior member of the company's flagship
                   cloud center of excellence project. Enabling
